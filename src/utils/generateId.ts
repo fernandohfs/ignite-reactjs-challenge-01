@@ -1,5 +1,5 @@
 export default function generateId() {
   return Math.floor(
-    Math.random() * 10
+    Math.random() * 5000
   ) + 1;
 }
